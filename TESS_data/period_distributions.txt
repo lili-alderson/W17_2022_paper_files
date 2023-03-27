@@ -1,0 +1,6 @@
+Triaud 2010 = (3.7354330, 0.0000076)
+Anderson 2011 = (3.7354380, 0.0000068)
+Southworth 2012 = (3.7354845, 0.0000019)
+Literature + Spitzer/HST = (3.73548499, 0.00000041)
+Only TESS = (3.73548578, 0.00000173)
+Literature + Spitzer/HST + TESS = (3.73548537, 0.00000020)

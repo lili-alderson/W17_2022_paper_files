@@ -1,0 +1,45 @@
+data_file,W17_G102_lc_11110.txt
+run_name,11110_clipped
+nsys,50
+rl_in,0.1255
+epoch_in,58021.48064883803
+incl_deg_in,86.93051272857655
+ecc_in,0.0
+omega_in,0.0
+period_in,3.7354850226
+aor_in,7.025
+metallicity,-0.25
+teff_in,6550.0
+logg_in,4.2
+c1,0.8623509863121901
+c2,-0.8410410073231982
+c3,0.7946870632695371
+c4,-0.28377224752996133
+wavelength_mid_point,11110.252091806407
+wavelength_half_width,106.98584414633115
+top_five_numbers,[43 44 48 38 49]
+top_five_aicevidence,[331.45267638 330.97243445 330.97205198 330.74080422 330.54845337]
+top_five_dof,[43. 42. 42. 44. 41.]
+top_five_chisq,[72.87260424 72.8330881  72.83385303 75.29634857 72.68105026]
+top_five_weights,"[0.26792118142140214 0.1657450734826508 0.16568169400872523
+ 0.1314755200119056 0.10846958654370781]"
+top_five_sdnr,[293.60896542 293.53418259 293.54124676 298.36483024 293.25694638]
+white_noise,0.00040799319812849635
+red_noise,8.093203840089834e-05
+beta,1.174692074214302
+num_rejected,0
+indices_rejected,"(array([], dtype=int64),)"
+rl_marg,0.12260900119285571
+rl_marg_err,0.000401474395312704
+epoch_marg,58021.4799455224
+epoch_marg_err,0.00046196476563274957
+inclin_rad_marg,
+inclin_rad_marg_err,
+inclin_deg_marg,
+inclin_deg_marg_err,
+msmpr_marg,
+msmpr_marg_err,
+aor_marg,
+aor_marg_err,
+systematics_figure,/Users/lilialderson/Documents/ExoTiCISM/outputs/FINAL_PERIOD_G102/2021-07-05T13-12-22_W17_11110_clipped/weights-stdr-rl.png
+lightcurve_figure,/Users/lilialderson/Documents/ExoTiCISM/outputs/FINAL_PERIOD_G102/2021-07-05T13-12-22_W17_11110_clipped/residuals_best-model.png
